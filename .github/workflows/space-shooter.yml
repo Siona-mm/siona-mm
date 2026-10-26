@@ -21,14 +21,3 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'gh-space-shooter.gif'
-          
-          # --- Customization Options ---
-          strategy: 'column'           # Game animation pattern: 'random', 'column', 'row', 'snake'
-          theme: 'dark'                # Background mode: 'dark' or 'light'
-          
-          # Custom contribution block colors (Hex codes)
-          color-0: '#161b22'           # Empty cell (No commits)
-          color-1: '#0e4429'           # Level 1 commits
-          color-2: '#006d32'           # Level 2 commits
-          color-3: '#26a641'           # Level 3 commits
-          color-4: '#39d353'           # Level 4 commits (Max)
