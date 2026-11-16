@@ -7,6 +7,3 @@
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/siona-mm/siona-mm/output/github-contribution-grid-snake.svg" />
 </picture> -->
 
-<p align="center">
-  <img src="./mantis.svg" alt="Orchid Mantis Contribution Matrix" />
-</p>
